@@ -1,0 +1,7 @@
+tensorflow==2.5.0
+retinaface
+arcface
+fastapi
+uvicorn
+pydantic[email]
+pymongo

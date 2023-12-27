@@ -1,0 +1,2 @@
+dăng ký ảnh-> anh, meta data (ten tuoi) -> extract vector -> luu vao milvus -> id milvus -> luu vao mongodb(anh idmilvus metadata vector) 
+search: anh -> extract vector -> so sanh milvus -> vector khoang cach min -> id milvus -> search mongodb -> so vector mongo vs vector input -> score lon thi xac nhan, nho thi ko tim dc
